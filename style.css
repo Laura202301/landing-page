@@ -91,3 +91,22 @@ img {
     border: 4px solid #3882F6;
     border-radius: 14px;
   }
+  
+/*Testimonial content style*/
+
+.testimonial {
+    background: #E5E7EB;
+    text-align: left;
+    padding: 120px 320px;
+}
+.signature {
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+}
+.quote {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
