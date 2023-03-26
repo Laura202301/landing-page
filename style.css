@@ -135,4 +135,13 @@ img {
     border: 2px solid #F9FAF8;
 }
 
+/*Footer style*/
+
+.footer {
+    background:#1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 40px 130px;
+}
 
